@@ -1,0 +1,24 @@
+.recipe {
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(100, 100, 100);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: whitesmoke;
+    align-items: center;
+    min-width: 40%;
+}
+
+.image{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+.calories{
+    font-weight: 500;
+    background: lightgreen;
+    padding: 10px;
+    border-radius: 10px;
+}
